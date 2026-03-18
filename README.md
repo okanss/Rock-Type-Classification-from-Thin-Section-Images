@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/26093284/README.md)
-# Meteorite Detection Network
+# Rock Type Classification from Thin-Section Images
 
 This repository accompanies the manuscript *Parameter-Efficient Fine-Tuning of a Vision-Language Model for Rock Type Classification from Thin-Section Images* and currently contains the main training notebook, `RX-11B-Full-3E.ipynb`.
 
-Despite the repository name, the work in this repository is a rock-type thin-section image classification project. The notebook fine-tunes a vision-language model to read a petrographic image and return only the predicted rock class.
+The work in this repository is a rock-type thin-section image classification project. The notebook fine-tunes a vision-language model to read a petrographic image and return only the predicted rock class.
 
 ## Manuscript summary
 
